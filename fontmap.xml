@@ -1,0 +1,201 @@
+
+<!-- font mappings -->
+
+
+<font_lib>
+		
+		<efigs name="$body"							mapping="Cabrito Norm Demi"	            iconScale="100" bold="0"  enum="FONT_STYLE_BODY"		    	 		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$body1"						mapping="Cabrito Norm Demi"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$body2"						mapping="Cabrito Norm Demi"	            iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="efigs"		characterRange="5"/>
+		<efigs name="$body3"						mapping="Cabrito Norm Demi"	            iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="efigs"		characterRange="5"/>
+		<efigs name="$FixedWidthNumbers"			mapping="RDR Lino Numbers"				iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="efigs"		characterRange="3|4"/>
+		<efigs name="$Font2"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$Font2_cond_NOT_GAMERNAME" 	mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="efigs"		characterRange="1|2|3|4"/>	
+		<efigs name="$Font5"						mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$gamername"					mapping="Rockstar Gamertag Cond"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$gtaCash"						mapping="Redemption" 					iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$handwritten"					mapping="1871 Dreamer Script"			iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$RockstarTAG"					mapping="RockstarTAG"					iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$SOCIAL_CLUB_COND_REG"			mapping="Cabrito Norm Demi"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$SOCIAL_CLUB_COND_BOLD" 		mapping="Cabrito Norm Demi"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"    		flashFile="efigs"		characterRange="9999"/>		
+		<efigs name="$title"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE"		    		    flashFile="efigs"		characterRange="1|2|3|4"/>	
+		<efigs name="$title1"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$title2"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="efigs"		characterRange="9999"/>			
+		<efigs name="$util"							mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="efigs"		characterRange=""/>		
+		<efigs name="$catalog1"						mapping="Cabrito Norm Demi"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$catalog2"						mapping="RDR Catalogue Numbers"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$catalog3"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$catalog4"						mapping="Cabrito Norm Demi"		    	iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$catalog5"						mapping="Cabrito Norm Demi"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$wantedPostersGeneric"			mapping="RDR Turri" 					iconScale="100" bold="1"  enum="FONT_STYLE_WANTED"		    		    flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$ledger"						mapping="RDR Ledger Hand"				iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="efigs"		characterRange="9999"/>
+		<efigs name="$Debug_BOLD" 					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="efigs"		characterRange="9999"/>		
+		<efigs name="$chalk" 						mapping="RDR Chalk Hand"				iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="efigs"		characterRange="1|2|3|4"/>		
+		<efigs name="$Font5_limited"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="efigs"		characterRange="1|2|3|4"/>
+		<efigs name="$creditNames"					mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   		    flashFile="efigs"		characterRange="1|2|3|4"/>	
+		<efigs name="$creditTitles"					mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"		   		flashFile="efigs"		characterRange="1|2|3|4"/>	
+		
+		<korean name="$Font2"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="korean"		characterRange="1|2|3|4"/>                
+		<korean name="$Font5"						mapping="Yoon-Gogooryo M"				iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="korean"		characterRange="1|2|3|4"/>                 
+		<korean name="$RockstarTAG"					mapping="RockstarTAG"					iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="korean"		characterRange="9999"/>      
+		<korean name="$gtaCash"						mapping="Yoon-Gogooryo M" 				iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="korean"		characterRange="1|2|3|4"/>                                        
+		<korean name="$SOCIAL_CLUB_COND_REG"		mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="korean"		characterRange="1|2|3|4"/>                                           
+		<korean name="$SOCIAL_CLUB_COND_BOLD"		mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"		    flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$title1"						mapping="YDHope B"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="korean"		characterRange="1|2|3|4"/>                                           
+		<korean name="$title2"						mapping="YDHope B"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="korean"		characterRange="1|2|3|4"/>                                           
+		<korean name="$body1"						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="korean"		characterRange="1|2|3|4"/>                  
+		<korean name="$body2"						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="korean"		characterRange="1|2|3|4"/>                  
+		<korean name="$body3"						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="korean"		characterRange="1|2|3|4"/>                  
+        <korean name="$util"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="korean"		characterRange=""/>     
+		<korean name="$gamername"					mapping="Rockstar Gamertag Cond"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="korean"		characterRange="9999"/>
+		<korean name="$FixedWidthNumbers"			mapping="RDR Lino Numbers" 				iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="korean"		characterRange="3|4"/>
+		<korean name="$catalog1"					mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$catalog2"					mapping="RDR Catalogue Numbers"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$catalog3"					mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$catalog4"					mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$catalog5"					mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$wantedPostersGeneric"		mapping="YDMyungjo 240 Pro" 			iconScale="100" bold="0"  enum="FONT_STYLE_WANTED"		    		    flashFile="korean"		characterRange="9999"/>
+		<korean name="$Font2_cond_NOT_GAMERNAME"	mapping="YDMyungjo 240 Pro" 			iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="korean"		characterRange="9999"/>
+		<korean name="$title"						mapping="YDHope B"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE"		    		    flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$body"						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY"		    		    flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$handwritten"					mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="korean"		characterRange="9999"/>
+		<korean name="$ledger"						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="korean"		characterRange="1|2|3|4"/>
+		<korean name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="korean"		characterRange="9999"/>
+		<korean name="$Debug_BOLD" 					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="korean"		characterRange="9999"/>		
+		<korean name="$chalk" 						mapping="YDMyungjo 240 Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="korean"		characterRange="1|2|3|4"/>		
+		<korean name="$Font5_limited"				mapping="Yoon-Gogooryo M"				iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="korean"		characterRange="1|2|3|4"/>                 
+		<korean name="$creditNames"					mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   		    flashFile="korean"		characterRange="1|2|3|4"/>	
+		<korean name="$creditTitles"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"		   	    flashFile="korean"		characterRange="1|2|3|4"/>	
+		
+		<japanese name="$Font2"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="japanese"	characterRange="1|2|3|4"/>                  
+		<japanese name="$Font5"						mapping="AR GothicJIS SuperBold"		iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="japanese"	characterRange="1|2|3|4"/>                 
+		<japanese name="$RockstarTAG"				mapping="RockstarTAG"					iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="japanese"	characterRange="9999"/>      
+		<japanese name="$gtaCash"					mapping="AR GothicJIS SuperBold"		iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="japanese"	characterRange="1|2|3|4"/>                  
+		<japanese name="$SOCIAL_CLUB_COND_REG"		mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="japanese"	characterRange="1|2|3|4"/>                                           
+		<japanese name="$SOCIAL_CLUB_COND_BOLD"		mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"		    flashFile="japanese"	characterRange="1|2|3|4"/> 
+		<japanese name="$title"						mapping="Motoya Aporo Std W7"			iconScale="100" bold="1"  enum="FONT_STYLE_TITLE"		    		    flashFile="japanese"	characterRange="1|2|3|4"/>                                             
+		<japanese name="$title1"					mapping="Motoya Aporo Std W7"			iconScale="100" bold="1"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="japanese"	characterRange="1|2|3|4"/>                                             
+		<japanese name="$title2"					mapping="Motoya Aporo Std W7"			iconScale="100" bold="1"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="japanese"	characterRange="1|2|3|4"/>                                             
+		<japanese name="$body"						mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_BODY"						flashFile="japanese"	characterRange="1|2|3|4"/>                    
+		<japanese name="$body1"						mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="japanese"	characterRange="1|2|3|4"/>                    
+		<japanese name="$body2"						mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="japanese"	characterRange="1|2|3|4"/>                    
+		<japanese name="$body3"						mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="japanese"	characterRange="1|2|3|4"/>                    
+		<japanese name="$util"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$gamername"					mapping="Rockstar Gamertag Cond"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$FixedWidthNumbers"			mapping="RDR Lino Numbers"	 			iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="japanese"	characterRange="3|4"/>
+		<japanese name="$catalog1"					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$catalog2"					mapping="RDR Catalogue Numbers"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$catalog3"					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$catalog4"					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$catalog5"					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$wantedPostersGeneric"		mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_WANTED"		    		    flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$Font2_cond_NOT_GAMERNAME"	mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$handwritten"				mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$ledger"					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="japanese"	characterRange="1|2|3|4"/>
+		<japanese name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="japanese"	characterRange="9999"/>
+		<japanese name="$Debug_BOLD" 				mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="japanese"	characterRange="9999"/>	
+		<japanese name="$chalk" 					mapping="MotoyaExGothic W4 KP"			iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="japanese"	characterRange="1|2|3|4"/>		
+		<japanese name="$Font5_limited"				mapping="AR GothicJIS SuperBold"		iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="japanese"	characterRange="1|2|3|4"/>                 
+		<japanese name="$creditNames"				mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   			flashFile="japanese"	characterRange="1|2|3|4"/>	
+		<japanese name="$creditTitles"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"		  			flashFile="japanese"	characterRange="1|2|3|4"/>	
+		
+		<chinese name="$Font2"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="chinese"		characterRange="1|2|3|4"/>                  
+		<chinese name="$Font5"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="chinese"		characterRange="1|2|3|4"/>                   
+		<chinese name="$RockstarTAG"				mapping="RockstarTAG"					iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="chinese"		characterRange="9999"/>        
+		<chinese name="$gtaCash"					mapping="MSung HK Medium" 				iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="chinese"		characterRange="1|2|3|4"/>             
+		<chinese name="$SOCIAL_CLUB_COND_REG"		mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="chinese"		characterRange="1|2|3|4"/>                                             
+		<chinese name="$SOCIAL_CLUB_COND_BOLD" 		mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"		    flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$title1"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="chinese"		characterRange="1|2|3|4"/>                                             
+		<chinese name="$title2"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="chinese"		characterRange="1|2|3|4"/>                                             
+		<chinese name="$body1"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="chinese"		characterRange="1|2|3|4"/>                    
+		<chinese name="$body2"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="chinese"		characterRange="1|2|3|4"/>                    
+		<chinese name="$body3"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="chinese"		characterRange="1|2|3|4"/>                    
+		<chinese name="$util"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="chinese"		characterRange=""/>
+		<chinese name="$gamername"					mapping="Rockstar Gamertag Cond"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="chinese"		characterRange="9999"/>
+		<chinese name="$FixedWidthNumbers"			mapping="RDR Lino Numbers"				iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="chinese"		characterRange="3|4"/>
+		<chinese name="$catalog1"					mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$catalog2"					mapping="RDR Catalogue Numbers"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$catalog3"					mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$catalog4"					mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$catalog5"					mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$wantedPostersGeneric"		mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_WANTED"		    		    flashFile="chinese"		characterRange="9999"/>
+		<chinese name="$Font2_cond_NOT_GAMERNAME"	mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="chinese"		characterRange="9999"/>
+		<chinese name="$title"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE"		    		    flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$body"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY"		    		    flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$handwritten"				mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="chinese"		characterRange="9999"/>
+		<chinese name="$ledger"						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="chinese"		characterRange="1|2|3|4"/>
+		<chinese name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="chinese"		characterRange="9999"/>
+		<chinese name="$Debug_BOLD" 				mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="chinese"		characterRange="9999"/>		
+		<chinese name="$chalk" 						mapping="MSung HK Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="chinese"		characterRange="1|2|3|4"/>		
+		<chinese name="$Font5_limited"				mapping="AR GuyinB5 Bold"				iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="chinese"		characterRange="1|2|3|4"/>                   
+		<chinese name="$creditNames"				mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   			flashFile="chinese"		characterRange="1|2|3|4"/>	
+		<chinese name="$creditTitles"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"		 		flashFile="chinese"		characterRange="1|2|3|4"/>	
+
+		<simplified_chinese name="$Font2"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                  
+		<simplified_chinese name="$Font5"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                   
+		<simplified_chinese name="$RockstarTAG"					mapping="RockstarTAG"						iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="simplified_chinese"		characterRange="9999"/>        
+		<simplified_chinese name="$gtaCash"						mapping="MSungGB18030C-Medium" 				iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="simplified_chinese"		characterRange="1|2|3|4"/>             
+		<simplified_chinese name="$SOCIAL_CLUB_COND_REG"		mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                                             
+		<simplified_chinese name="$SOCIAL_CLUB_COND_BOLD" 		mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"			flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$title1"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                                             
+		<simplified_chinese name="$title2"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                                             
+		<simplified_chinese name="$body1"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                    
+		<simplified_chinese name="$body2"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                    
+		<simplified_chinese name="$body3"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                    
+		<simplified_chinese name="$util"						mapping="Arial DEBUG"						iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="simplified_chinese"		characterRange=""/>
+		<simplified_chinese name="$gamername"					mapping="Rockstar Gamertag Cond"			iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="simplified_chinese"		characterRange="9999"/>
+		<simplified_chinese name="$FixedWidthNumbers"			mapping="RDR Lino Numbers"					iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="simplified_chinese"		characterRange="3|4"/>
+		<simplified_chinese name="$catalog1"					mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$catalog2"					mapping="RDR Catalogue Numbers"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$catalog3"					mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$catalog4"					mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$catalog5"					mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$wantedPostersGeneric"		mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_WANTED"		    		    flashFile="simplified_chinese"		characterRange="9999"/>
+		<simplified_chinese name="$Font2_cond_NOT_GAMERNAME"	mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="simplified_chinese"		characterRange="9999"/>
+		<simplified_chinese name="$title"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_TITLE"		    		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$body"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY"		    		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$handwritten"					mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="simplified_chinese"		characterRange="9999"/>
+		<simplified_chinese name="$ledger"						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>
+		<simplified_chinese name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="simplified_chinese"		characterRange="9999"/>
+		<simplified_chinese name="$Debug_BOLD" 					mapping="HelveticaNeue LT 47 LightCn"		iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="simplified_chinese"		characterRange="9999"/>	
+		<simplified_chinese name="$chalk" 						mapping="MSungGB18030C-Medium"				iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="simplified_chinese"		characterRange="1|2|3|4"/>		
+		<simplified_chinese name="$Font5_limited"				mapping="MLiPRC-Bold"						iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="simplified_chinese"		characterRange="1|2|3|4"/>                   
+		<simplified_chinese name="$creditNames"					mapping="RDR Lino"							iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>	
+		<simplified_chinese name="$creditTitles"				mapping="Redemption"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"	   		    flashFile="simplified_chinese"		characterRange="1|2|3|4"/>	
+	
+		<russian name="$body"						mapping="Hapna Slab Serif  DemiBold"	iconScale="100" bold="0"  enum="FONT_STYLE_BODY"		    	 		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$body1"						mapping="Droid Serif Pro"				iconScale="100" bold="0"  enum="FONT_STYLE_BODY_1"						flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$body2"						mapping="Hapna Slab Serif  DemiBold"	iconScale="100" bold="0"  enum="FONT_STYLE_BODY_2"						flashFile="russian"		characterRange="5"/>
+		<russian name="$body3"						mapping="Hapna Slab Serif  DemiBold"	iconScale="100" bold="0"  enum="FONT_STYLE_BODY_3"						flashFile="russian"		characterRange="5"/>
+		<russian name="$FixedWidthNumbers"			mapping="RDR Lino Numbers"				iconScale="100" bold="0"  enum="FONT_STYLE_FIXED_WIDTH_NUMBERS"			flashFile="russian"		characterRange="3|4"/>
+		<russian name="$Font2"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD"					flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$Font2_cond_NOT_GAMERNAME"	mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_STANDARD_NOT_GAMERNAME"		flashFile="russian"		characterRange="1|2|3|4"/>	
+		<russian name="$Font5"						mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CURSIVE"						flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$gamername"					mapping="Rockstar Gamertag Cond"		iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED_NOT_GAMERNAME"		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$gtaCash"					mapping="Redemption" 					iconScale="100" bold="0"  enum="FONT_STYLE_PRICEDOWN"					flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$handwritten"				mapping="1871 Dreamer Script"			iconScale="100" bold="0"  enum="FONT_STYLE_HANDWRITTEN"	    		    flashFile="russian"		characterRange="9999"/>
+		<russian name="$RockstarTAG"				mapping="RockstarTAG"					iconScale="100" bold="0"  enum="FONT_STYLE_ROCKSTAR_TAG"				flashFile="russian"		characterRange="9999"/>
+		<russian name="$SOCIAL_CLUB_COND_REG"		mapping="Arial"							iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_REG"				flashFile="russian"		characterRange="9999"/>
+		<russian name="$SOCIAL_CLUB_COND_BOLD" 		mapping="Arial"							iconScale="100" bold="0"  enum="FONT_STYLE_SOCIAL_CLUB_BOLD"		    flashFile="russian"		characterRange="9999"/>		
+		<russian name="$title"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE"		    		    flashFile="russian"		characterRange="1|2|3|4"/>	
+		<russian name="$title1"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_1"		    		    flashFile="russian"		characterRange="9999"/>
+		<russian name="$title2"						mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_TITLE_2"		    		    flashFile="russian"		characterRange="9999"/>			
+		<russian name="$util"						mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_UTIL"						flashFile="russian"		characterRange=""/>		
+		<russian name="$catalog1"					mapping="RDR Gothica"					iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_1"		    		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$catalog2"					mapping="RDR Catalogue Numbers"			iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_2"		    		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$catalog3"					mapping="Arial DEBUG"					iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_3"		    		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$catalog4"					mapping="RDR Catalogue Bold"			iconScale="100" bold="1"  enum="FONT_STYLE_CATALOG_4"		    		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$catalog5"					mapping="Hapna Slab Serif  DemiBold"	iconScale="100" bold="0"  enum="FONT_STYLE_CATALOG_5"		    		flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$wantedPostersGeneric"		mapping="RDR Turri" 					iconScale="100" bold="1"  enum="FONT_STYLE_WANTED"		    		    flashFile="russian"		characterRange="9999"/>
+		<russian name="$ledger"						mapping="Hapna Slab Serif  DemiBold"	iconScale="100" bold="0"  enum="FONT_STYLE_LEDGER"						flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$Debug_REG"					mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CONDENSED"					flashFile="russian"		characterRange="9999"/>
+		<russian name="$Debug_BOLD" 				mapping="HelveticaNeue LT 47 LightCn"	iconScale="100" bold="0"  enum="FONT_STYLE_CON_BOLD"		    		flashFile="russian"		characterRange="9999"/>		
+		<russian name="$chalk" 						mapping="RDR Chalk Hand"				iconScale="100" bold="0"  enum="FONT_STYLE_CHALK_HAND"			    	flashFile="russian"		characterRange="1|2|3|4"/>		
+		<russian name="$Font5_limited"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_LIMITED"						flashFile="russian"		characterRange="1|2|3|4"/>
+		<russian name="$creditNames"				mapping="RDR Lino"						iconScale="100" bold="0"  enum="FONT_STYLE_CREDITNAMES"		   		    flashFile="russian"		characterRange="1|2|3|4"/>	
+		<russian name="$creditTitles"				mapping="Redemption"					iconScale="100" bold="0"  enum="FONT_STYLE_CREDITTITLES"	 		    flashFile="russian"		characterRange="1|2|3|4"/>	
+
+</font_lib>
+
+
