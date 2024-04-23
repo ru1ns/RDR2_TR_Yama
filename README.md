@@ -1,2 +1,2 @@
-# RDR2_TR_Yama
+# RDR2 TR Yama
 RDR 2 Türkçe Yama
