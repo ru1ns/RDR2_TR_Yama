@@ -1,0 +1,12 @@
+// RDR 2 ASI LOADER (build Jul 18 2021)
+//     (C) Alexander Blade 2019-2021
+LIB: "C:\Windows\system32\dinput8.dll" => 00007FFE64250000
+API: "DirectInput8Create" => 00007FFE64252230
+API: "DllCanUnloadNow" => 00007FFE64265220
+API: "DllGetClassObject" => 00007FFE64265330
+API: "DllRegisterServer" => 00007FFE64274740
+API: "DllUnregisterServer" => 00007FFE642749C0
+LOADER: Loading *.asi plugins
+ASI: Loading "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\fontfix.asi"
+     "fontfix.asi" => 00007FFE8D1C0000
+LOADER: Finished loading *.asi plugins
