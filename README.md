@@ -10,6 +10,8 @@ Daha önce başka bir Türkçe yama kurulumu yaptıysanız, <b>kurulu olan yamay
 
 NOT: Bu yamada font fix veya kurulum gibi araçlar bulunmamaktadır. Kopyala-yapıştır mantığıyla çalışır, karakter seti gömülüdür.
 
+<b>Kurulum</b>
+
 İndirdiğiniz yama dosyalarını oyunun kurulu olduğu klasöre atın. İşleminiz bu kadar.
 
 Karakter sorunu devam eden arkadaşlar https://www.fpsturk.net/rdr-2-turkce-yama-sorunsuz-3841 linkte bulunan başlığın yorumlarına yazabilirler.
