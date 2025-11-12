@@ -14,4 +14,4 @@ NOT: Bu yamada font fix veya kurulum gibi araçlar bulunmamaktadır. Kopyala-yap
 
 İndirdiğiniz yama dosyalarını oyunun kurulu olduğu klasöre atın. İşleminiz bu kadar.
 
-Karakter sorunu devam eden arkadaşlar https://www.fpsturk.net/rdr-2-turkce-yama-sorunsuz-3841 linkte bulunan başlığın yorumlarına yazabilirler.
+Karakter sorunu devam eden arkadaşlar mavipot.com'da bulunan [RDR 2 Türkçe Yama](https://mavipot.com/rdr-2-turkce-yama-sorunsuz-737/) başlığına gelip yazabilirler.
